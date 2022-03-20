@@ -13,4 +13,5 @@ $checker->mainchecker('/tms/login');
 	                    <link rel="icon" type="image/x-icon" href="/tms/common-assets/img/favicon.ico"/>
 	                        <link href="/tms/assets/css/loader.css" rel="stylesheet" type="text/css" />
 	                            <script src="/tms/assets/js/loader.js"></script>script>
-	                            
+	                                <!-- Common Styles Starts -->
+	                                
