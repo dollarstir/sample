@@ -14,4 +14,5 @@ $checker->mainchecker('/tms/login');
 	                        <link href="/tms/assets/css/loader.css" rel="stylesheet" type="text/css" />
 	                            <script src="/tms/assets/js/loader.js"></script>script>
 	                                <!-- Common Styles Starts -->
-	                                
+	                                    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+	                                    
