@@ -18,4 +18,5 @@ $checker->mainchecker('/tms/login');
 	                                        <link href="/tms/common-assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 	                                            <link href="/tms/assets/css/main.css" rel="stylesheet" type="text/css" />
 	                                                <link href="/tms/assets/css/structure.css" rel="stylesheet" type="text/css" />
-	                                                
+	                                                    <link href="/tms/common-assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css" />
+	                                                    
