@@ -20,4 +20,5 @@ $checker->mainchecker('/tms/login');
 	                                                <link href="/tms/assets/css/structure.css" rel="stylesheet" type="text/css" />
 	                                                    <link href="/tms/common-assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css" />
 	                                                        <link href="/tms/common-assets/plugins/highlight/styles/monokai-sublime.css" rel="stylesheet" type="text/css" />
-	                                                        
+	                                                            <!-- Common Styles Ends -->
+	                                                            
