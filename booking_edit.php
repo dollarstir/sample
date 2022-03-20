@@ -36,4 +36,5 @@ $checker->mainchecker('/tms/login');
 	                                                                                                        </head>head>
 	                                                                                                        <body>
 	                                                                                                        	    <!-- Loader Starts -->
-	                                                                                                        	    
+	                                                                                                        	        <div id="load_screen"> 
+	                                                                                                        	        	
