@@ -27,4 +27,5 @@ $checker->mainchecker('/tms/login');
 	                                                                            <!-- Page Level Plugin/Style Starts -->
 	                                                                                <link rel="stylesheet" type="text/css" href="/tms/common-assets/plugins/select2/select2.min.css">
 	                                                                                    <link href="/tms/assets/css/forms/form-widgets.css" rel="stylesheet" type="text/css">
-	                                                                                    
+	                                                                                        <script src="/tms/common-assets/plugins/sweetalerts/promise-polyfill.js"></script>script>
+	                                                                                        
