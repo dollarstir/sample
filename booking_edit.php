@@ -11,4 +11,5 @@ $checker->mainchecker('/tms/login');
 	                <title>TUCEE - Add Bookings </title>title>
 	                    <link rel="icon" type="image/x-icon" href="common-assets/img/favicon.ico"/>
 	                        <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />
-	                        
+	                            <script src="assets/js/loader.js"></script>script>
+	                            
