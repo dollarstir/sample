@@ -39,4 +39,5 @@ $checker->mainchecker('/tms/login');
 	                                                                                                        	        	        <div class="boxes">
 	                                                                                                        	        	        	            <div class="box">
 	                                                                                                        	        	        	            	                <div></div>div><div></div>div><div></div>div><div></div>div>
-	                                                                                                        	        	        	            	                
+	                                                                                                        	        	        	            	                            </div>div>
+	                                                                                                        	        	        	            	                            
