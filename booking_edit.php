@@ -28,4 +28,5 @@ $checker->mainchecker('/tms/login');
 	                                                                                    <link href="assets/css/forms/form-widgets.css" rel="stylesheet" type="text/css">
 	                                                                                        <script src="common-assets/plugins/sweetalerts/promise-polyfill.js"></script>script>
 	                                                                                            <link href="common-assets/plugins/sweetalerts/sweetalert2.min.css" rel="stylesheet" type="text/css" />
-	                                                                                            
+	                                                                                                <link href="common-assets/plugins/sweetalerts/sweetalert.css" rel="stylesheet" type="text/css" />
+	                                                                                                
