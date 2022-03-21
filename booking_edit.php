@@ -24,4 +24,5 @@ $checker->mainchecker('/tms/login');
 	                                                                    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
 	                                                                        <!-- Common Icon Ends -->
 	                                                                            <!-- Page Level Plugin/Style Starts -->
-	                                                                            
+	                                                                                <link rel="stylesheet" type="text/css" href="common-assets/plugins/select2/select2.min.css">
+	                                                                                
