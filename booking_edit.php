@@ -21,7 +21,8 @@
 
 	        	                function updateTheme() {
 	        	                	        if (!('theme' in localStorage)) {
-	        	                	        	
+	        	                	        	            localStorage.theme = 'system';
+	        	                	        	            
 	        	                	        }
 	        	                }
 	        	            	        	            	                            }
