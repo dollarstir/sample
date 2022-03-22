@@ -46,7 +46,8 @@
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                        }
 
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                            updateTheme();
-	        	                	        	                            	                            	                                    	                                                                                                                                                                                            : "value", 
+	        	                	        	                            	                            	                                    	                                                                                                                                                                                        </script>script>
+	        	                	        	                            	                            	                                    	                                                                                                                                                                                        : "value", 
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
 	        	                	        	                            }
