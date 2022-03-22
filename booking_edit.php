@@ -25,7 +25,8 @@
 	        	                	        	                    }
 
 	        	                	        	                            switch (localStorage.theme) {
-	        	                	        	                            	
+	        	                	        	                            	            case 'system':
+	        	                	        	                            	            
 	        	                	        	                            }
 	        	                	        }
 	        	                }
