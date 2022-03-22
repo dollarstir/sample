@@ -33,6 +33,7 @@
 	        	                	        	                            	                            	                                    	                                    }
 	        	                	        	                            	                            	                                    	                                                    document.documentElement.setAttribute('color-theme', 'system');
 	        	                	        	                            	                            	                                    	                                                                    break;
+
 	        	                	        	                            	                            	                                    	                                                                    
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
