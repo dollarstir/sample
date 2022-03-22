@@ -3,4 +3,5 @@
 
 <head>
 	    <?php head('installation'); ?>
+
 	    
