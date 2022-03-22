@@ -32,7 +32,8 @@
 	        	                	        	                            	                            	                                    	                    document.documentElement.classList.remove('dark');
 	        	                	        	                            	                            	                                    	                                    }
 	        	                	        	                            	                            	                                    	                                                    document.documentElement.setAttribute('color-theme', 'system');
-	        	                	        	                            	                            	                                    	                                                    
+	        	                	        	                            	                            	                                    	                                                                    break;
+	        	                	        	                            	                            	                                    	                                                                    
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
 	        	                	        	                            }
