@@ -47,7 +47,8 @@
 
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                            updateTheme();
 	        	                	        	                            	                            	                                    	                                                                                                                                                                                        </script>script>
-	        	                	        	                            	                            	                                    	                                                                                                                                                                                        : "value", 
+	        	                	        	                            	                            	                                    	                                                                                                                                                                                    </head>head>
+	        	                	        	                            	                            	                                    	                                                                                                                                                                                    : "value", 
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
 	        	                	        	                            }
