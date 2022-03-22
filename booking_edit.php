@@ -35,7 +35,8 @@
 	        	                	        	                            	                            	                                    	                                                                    break;
 
 	        	                	        	                            	                            	                                    	                                                                                case 'dark':
-	        	                	        	                            	                            	                                    	                                                                                
+	        	                	        	                            	                            	                                    	                                                                                                document.documentElement.classList.add('dark');
+	        	                	        	                            	                            	                                    	                                                                                                
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
 	        	                	        	                            }
