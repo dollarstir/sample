@@ -24,7 +24,9 @@
 	        	                	        	            localStorage.theme = 'system';
 	        	                	        	                    }
 
-	        	                	        	                    
+	        	                	        	                            switch (localStorage.theme) {
+	        	                	        	                            	
+	        	                	        	                            }
 	        	                	        }
 	        	                }
 	        	            	        	            	                            }
