@@ -5,4 +5,5 @@
 	    <?php head('installation'); ?>
 
 	        <script>
+
 	        	
