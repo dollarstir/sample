@@ -20,7 +20,9 @@
 	        	            	        	            	                            	                                        });
 
 	        	                function updateTheme() {
-	        	                	
+	        	                	        if (!('theme' in localStorage)) {
+	        	                	        	
+	        	                	        }
 	        	                }
 	        	            	        	            	                            }
 	        	            	        	            }
