@@ -4,4 +4,5 @@
 <head>
 	    <?php head('installation'); ?>
 
-	    
+	        <script>
+	        	
