@@ -40,7 +40,8 @@
 	        	                	        	                            	                            	                                    	                                                                                                                                break;
 
 	        	                	        	                            	                            	                                    	                                                                                                                                            case 'light'                document.documentElement.classList.remove('dark');
-	        	                	        	                            	                            	                                    	                                                                                                                                            : "value", 
+	        	                	        	                            	                            	                                    	                                                                                                                                                            document.documentElement.setAttribute('color-theme', 'light');
+	        	                	        	                            	                            	                                    	                                                                                                                                                            : "value", 
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
 	        	                	        	                            }
