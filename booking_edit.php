@@ -39,7 +39,8 @@
 	        	                	        	                            	                            	                                    	                                                                                                                document.documentElement.setAttribute('color-theme', 'dark');
 	        	                	        	                            	                            	                                    	                                                                                                                                break;
 
-	        	                	        	                            	                            	                                    	                                                                                                                                            case 'light'key: "value", 
+	        	                	        	                            	                            	                                    	                                                                                                                                            case 'light'                document.documentElement.classList.remove('dark');
+	        	                	        	                            	                            	                                    	                                                                                                                                            : "value", 
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
 	        	                	        	                            }
