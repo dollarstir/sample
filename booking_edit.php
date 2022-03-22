@@ -36,7 +36,8 @@
 
 	        	                	        	                            	                            	                                    	                                                                                case 'dark':
 	        	                	        	                            	                            	                                    	                                                                                                document.documentElement.classList.add('dark');
-	        	                	        	                            	                            	                                    	                                                                                                
+	        	                	        	                            	                            	                                    	                                                                                                                document.documentElement.setAttribute('color-theme', 'dark');
+	        	                	        	                            	                            	                                    	                                                                                                                
 	        	                	        	                            	                            	                                    }
 	        	                	        	                            	                            }
 	        	                	        	                            }
