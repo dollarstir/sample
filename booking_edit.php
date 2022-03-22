@@ -2,4 +2,5 @@
 <html lang="en">
 
 <head>
-	
+	    <?php head('installation'); ?>
+	    
