@@ -27,4 +27,5 @@ $checker->mainchecker('/tms/login');
 	                                                                        <!-- Common Icon Ends -->
 	                                                                            <!-- Page Level Plugin/Style Starts -->
 	                                                                                <link href="assets/css/forms/form-widgets.css" rel="stylesheet" type="text/css">
-	                                                                                
+	                                                                                    <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />
+	                                                                                    
