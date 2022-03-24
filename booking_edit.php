@@ -12,4 +12,5 @@ $checker->mainchecker('/tms/login');
 	            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
 	                <title>TUCEE | TUCEE - Add Visitor </title>title>
 	                    <link rel="icon" type="image/x-icon" href="common-assets/img/favicon.ico"/>
-	                    
+	                        <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />
+	                        
