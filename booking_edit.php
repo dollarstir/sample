@@ -39,4 +39,5 @@ $checker->mainchecker('/tms/login');
 	                                                                                                        	    <!-- Loader Starts -->
 	                                                                                                        	        <div id="load_screen"> 
 	                                                                                                        	        	        <div class="boxes">
-	                                                                                                        	        	        	
+	                                                                                                        	        	        	            <div class="box">
+	                                                                                                        	        	        	            	
