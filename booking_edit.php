@@ -36,4 +36,5 @@ $checker->mainchecker('/tms/login');
 	                                                                                                            <!-- Page Level Plugin/Style Ends -->
 	                                                                                                        </head>
 	                                                                                                        <body>
-	                                                                                                        	'
+	                                                                                                        	    <!-- Loader Starts -->
+	                                                                                                        	    '
