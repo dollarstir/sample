@@ -16,4 +16,5 @@ $checker->mainchecker('/tms/login');
 	                            <script src="assets/js/loader.js"></script>script>
 	                                <!-- Common Styles Starts -->
 	                                    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
-	                                    
+	                                        <link href="common-assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	                                        
