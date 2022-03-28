@@ -33,4 +33,5 @@ $checker->mainchecker('/tms/login');
 	                                                                                                <link href="common-assets/plugins/sweetalerts/sweetalert2.min.css" rel="stylesheet" type="text/css" />
 	                                                                                                    <link href="common-assets/plugins/sweetalerts/sweetalert.css" rel="stylesheet" type="text/css" />
 	                                                                                                        <link href="assets/css/basic-ui/custom_sweetalert.css" rel="stylesheet" type="text/css" />
-	                                                                                                        
+	                                                                                                            <!-- Page Level Plugin/Style Ends -->
+	                                                                                                            
